@@ -1,4 +1,4 @@
-#include <stdio.h> //Lab 4: Area of Circle, Rectangle and Triangle using switch case, 17th of October 2025
+#include <stdio.h> //Lab 4: Area of Circle, Rectangle and Triangle using switch case, 17th of October 2025. The header file stdio.h is also used in C++
 
 int main()
 {
@@ -45,4 +45,5 @@ int main()
     }
 
     return 0;
+
 }
